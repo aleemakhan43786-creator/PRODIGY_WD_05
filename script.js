@@ -4,7 +4,7 @@ const searchBtn =
 document.getElementById("searchBtn");
 
 const cityInput =
-document.getElementById("cityInput");
+document.getElementById("cityInput"); 
 
 const loader =
 document.getElementById("loader");
